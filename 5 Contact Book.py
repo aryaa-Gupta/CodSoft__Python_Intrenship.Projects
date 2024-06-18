@@ -1,3 +1,9 @@
+# TASK 5
+
+# Contact information - store name, email, addres for each contact
+# add contact,search contact, 
+# a user friendly interface for easy interaction.
+
 import PySimpleGUI as sg
 import csv
 
