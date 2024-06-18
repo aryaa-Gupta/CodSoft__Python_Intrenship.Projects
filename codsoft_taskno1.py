@@ -1,4 +1,4 @@
-# TASK 1
+# TASK 1 : TO-DO-LIST
 
 # A to-Do-List application is a useful ptroject that helps users manage and organize their tasks efficiently.
 
