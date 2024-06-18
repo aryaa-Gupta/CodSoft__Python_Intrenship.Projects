@@ -1,3 +1,11 @@
+# TASK 1
+
+# A to-Do-List application is a useful ptroject that helps users manage and organize their tasks efficiently.
+
+# In this project i have created a GUI based application using Python , allowing users to create, update(add tasks) ,
+# display list and delete tasks , i.e. track their to-do-lists
+
+
 from tkinter import *
 from tkinter import messagebox
 import sqlite3 as sql
