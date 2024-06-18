@@ -1,5 +1,9 @@
 # TASK 4
 
+# User input to select Rock/Paper/Scissors , Computer random choice for one of the three
+# Display Result - win/ lose /tie , Score Tracking for multiple rounds
+# Ask to play again yes/ no ?
+# I have designed it user friendly with clear instructions and also included ASCII arts .
 import random
 
 print("-- Welcome to ROCK, PAPER, SCISSORS Game --")
