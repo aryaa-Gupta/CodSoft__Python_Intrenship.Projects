@@ -1,4 +1,10 @@
-#  Creating A Random Password Generator
+# TASK 3
+
+# Creating A Random Password Generator 
+# It is a useful tool that generates random passwords for users.
+# In this project i have created a password generator usin Python, allowing users to 
+# specify the length of password, and after it the randomly generated password will be displayed on screen
+
 
 import random
 import string
